@@ -1,0 +1,42 @@
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.footer-section {
+  flex-basis: 25%;
+  padding: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.social-links {
+  display: flex;
+  margin-top: 10px;
+}
+
+.social-links li {
+  margin-right: 10px;
+}
+
+.fa {
+  font-size: 20px;
+}
